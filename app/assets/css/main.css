@@ -12,7 +12,7 @@
 @charset "utf-8";
 
 body{
-	font-family:'Varela Round',Varela Round,Varela Round;
+	font-family:'Varela Round', sans-serif;
 	background:#FFF;
 	font-weight:300;
 	height:100%;

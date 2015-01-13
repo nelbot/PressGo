@@ -602,6 +602,11 @@ color: #2ecc71;
 	padding-top: 135px;
 	padding-bottom: 135px;
 }
+
+#footsies {
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
 }
 
 .featureText p{
@@ -622,3 +627,4 @@ color: #2ecc71;
 .fack {
 	background: #f4f4f4;
 }
+

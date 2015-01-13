@@ -88,7 +88,7 @@ a:hover,a:focus{color:#5173bd;}
 	
 .pace.pace-inactive{display:none;}
 
-.btn,.btn-lg,.input-lg{border-radius:3px;}
+.btn,.btn-lg,.input-lg{border-radius:10px;}
 
 .form-control{
 	border-radius:3px;
@@ -574,6 +574,10 @@ color: #2ecc71;
 @media (max-width: 990px) {
 .featureText {
 	padding-top: 40px;
+}
+
+.logo img {
+	height: 100px;
 }
 }
 

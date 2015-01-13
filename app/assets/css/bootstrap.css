@@ -1992,9 +1992,9 @@ select[multiple].input-lg {
 }
 .btn {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 12px 12px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 24px;
   font-weight: normal;
   line-height: 1.42857143;
   text-align: center;
@@ -2006,7 +2006,7 @@ select[multiple].input-lg {
       -ms-user-select: none;
           user-select: none;
   background-image: none;
-  border: 1px solid transparent;
+  border: 3px solid transparent;
   border-radius: 4px;
 }
 .btn:focus,
@@ -2040,17 +2040,17 @@ fieldset[disabled] .btn {
 }
 .btn-default {
   color: #333;
-  background-color: #fff;
-  border-color: #ccc;
+  background-color: transparent;
+  border-color: #28C465;
 }
 .btn-default:hover,
 .btn-default:focus,
 .btn-default:active,
 .btn-default.active,
 .open .dropdown-toggle.btn-default {
-  color: #333;
-  background-color: #ebebeb;
-  border-color: #adadad;
+  color: #28C465;
+  background-color: transparent;
+  border-color: #28C465;
 }
 .btn-default:active,
 .btn-default.active,

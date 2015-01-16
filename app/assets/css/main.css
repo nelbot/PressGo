@@ -583,28 +583,28 @@ color: #2ecc71;
 
 @media (min-width: 990px) {
 #explore {
-	padding-top: 90px;
-	padding-bottom: 90px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 #process {
-	padding-top: 95px;
-	padding-bottom: 95px;
+	padding-top: 60px;
+	padding-bottom: 30px;
 }
 
 #testes {
-	padding-top: 90px;
-	padding-bottom: 90px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 #dolladollabill {
-	padding-top: 125px;
-	padding-bottom: 125px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 #faqyou {
-	padding-top: 135px;
-	padding-bottom: 135px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 #footsies {
